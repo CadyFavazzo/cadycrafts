@@ -12,7 +12,20 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
+# Crafts Galore
+
+Writing about making crafts is actually quite hard.
+
 ## About the Collection
+
+I haven't prepared anything to say about crafts. 
+It's complicated. 
+Crafts and art are all wrapped up in class and gender.
+If I were making this webiste for real, I'd write an essay about that.
+Instead, here are the types of crafts in this collection.
+
+# List: 
+
 
 This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
