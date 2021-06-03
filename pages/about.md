@@ -39,9 +39,13 @@ And now here is a numbered list:
 5. clothing
 
 # Crafts
+{:.text-center}
 ## Crafts
+{:.text-center}
 ### Crafts
+{:.text-center}
 #### Crafts
+{:.text-center}
 
 ## An Image
 
