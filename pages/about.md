@@ -24,9 +24,19 @@ Crafts and art are all wrapped up in class and gender.
 If I were making this webiste for real, I'd write an essay about that.
 Instead, here are the types of crafts in this collection.
 
-List : Cards
-List : Creatures
-List : Painting
+- cards
+- collage
+- painting
+- creatures
+- clothing
+
+And now here is a numbered list:
+
+1. One
+2. Two
+3. Three
+
+Let's check and see if I have made a list.
 
 
 This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
