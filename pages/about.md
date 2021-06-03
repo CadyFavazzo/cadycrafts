@@ -43,6 +43,18 @@ And now here is a numbered list:
 ### Crafts
 #### Crafts
 
+## An Image
+
+{% include feature/item-figure.html objectid="coll011" width="75" %}
+
+## A Card
+
+{% include feature/card.html header="This is a Creature" objectid="coll014" width="25" centered=true %}
+
+## A Button
+
+{% include feature/button.html text="Click to See More Creatures" link="https://cadyfavazzo.github.io/cadycrafts/browse.html#creatures" color="success" %}
+
 This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
