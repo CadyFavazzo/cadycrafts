@@ -32,12 +32,16 @@ Instead, here are the types of crafts in this collection.
 
 And now here is a numbered list:
 
-1. One
-2. Two
-3. Three
+1. cards
+2. collage
+3. painting
+4. creatures
+5. clothing
 
-Let's check and see if I have made a list.
-
+# Crafts
+## Crafts
+### Crafts
+#### Crafts
 
 This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
