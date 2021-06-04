@@ -14,15 +14,14 @@ credits: true
 
 # Crafts Galore
 
-Writing about making crafts is actually quite hard.
+Writing about making crafts is actually quite hard. 
 
 ## About the Collection
 
 I haven't prepared anything to say about crafts. 
 It's complicated. 
 Crafts and art are all wrapped up in class and gender.
-If I were making this webiste for real, I'd write an essay about that.
-Instead, here are the types of crafts in this collection.
+Here are the types of crafts in this collection.
 
 - cards
 - collage
@@ -30,7 +29,7 @@ Instead, here are the types of crafts in this collection.
 - creatures
 - clothing
 
-And now here is a numbered list:
+Here they are in a numbered list:
 
 1. cards
 2. collage
@@ -48,16 +47,23 @@ And now here is a numbered list:
 {:.text-center}
 
 ## An Image
+{:.text-center}
 
 {% include feature/item-figure.html objectid="coll011" width="75" %}
 
 ## A Card
+{:.text-center}
 
-{% include feature/card.html header="This is a Creature" objectid="coll014" width="25" centered=true %}
+{% include feature/card.html header="This is a Creature." objectid="coll014" width="25" centered=true %}
 
 ## A Button
+{:.text-center}
 
-{% include feature/button.html text="Click to See More Creatures" link="https://cadyfavazzo.github.io/cadycrafts/browse.html#creatures" color="success" %}
+{% include feature/button.html text="Click to See More Creatures" link="https://cadyfavazzo.github.io/cadycrafts/browse.html#creatures" color="success" centered=true %}
+
+{:.text-center}
+
+
 
 This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
